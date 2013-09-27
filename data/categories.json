@@ -1,0 +1,140 @@
+[
+{
+"id": "1",
+"name": "Coursebacon",
+"url": "http://coursebacon.com",
+"categories": ["foo", "fo"]
+},
+{
+"id": "2",
+"name": "The Code Player",
+"url": "http://thecodeplayer.com/",
+"categories": ["JavaScript", "HTML5", "CSS", "Web Development"]
+},
+{
+"id": "3",
+"name": "Mozilla Developer Network",
+"url": "https://developer.mozilla.org",
+"categories": ["HTML", "CSS", "Graphics Programming", "Web Development"]
+},
+{
+"id": "4",
+"name": "MIT Open Courseware",
+"url": "ocw.mit.edu",
+"categories": ["Computer Science", "Science", "Engineering", "Programming"]
+},
+{
+"id": "5",
+"name": "Coursera",
+"url": "www.coursera.org",
+"categories": ["Data Science", "Programming", "Theory", "Artificial Intelligence", "Computer Science", "Statistics", "Algorithms", "Data Structures", "Robotics"]
+},
+{
+"id": "6",
+"name": "Udacity",
+"url": "www.udacity.com",
+"categories": ["Computer Science", "Web Development", "Artificial Intelligence", "Algorithms", "Crypography", "Math", "Robotics"]
+},
+{
+"id": "7",
+"name": "Google Code University",
+"url": "code.google.com/edu/",
+"categories": ["Computer Science", "Web Development"]
+},
+{
+"id": "8",
+"name": "Code Academy",
+"url": "www.codecademy.com",
+"categories": ["JavaScript", "jQuery", "Python", "Ruby", "PHP", "Web Development"]
+},
+{
+"id": "9",
+"name": "Khan Academy",
+"url": "www.khanacademy.org",
+"categories": ["Programming", "Computer Science", "Math", "Information Theory"]
+},
+{
+"id": "10",
+"name": "General Assembly",
+"url": "https://generalassemb.ly",
+"categories": ["Mobile Development", "Web Development", "Data Analysis"]
+},
+{
+"id": "11",
+"name": "Eloquent JavaScript",
+"url": "www.eloquentjavascript.net",
+"categories": ["JavaScript"]
+},
+{
+"id": "12",
+"name": "Ruby Koans",
+"url": "http://rubykoans.com/",
+"categories": ["Ruby"]
+},
+{
+"id": "13",
+"name": "Learn Code the Hard Way",
+"url": "http://learncodethehardway.org/",
+"categories": ["JavaScript", "Python", "C++", "Ruby"]
+},
+{
+"id": "14",
+"name": "Code.org",
+"url": "http://www.code.org/",
+"categories": ["Computer Science", "Programming"]
+},
+{
+"id": "15",
+"name": "Coder Dojo",
+"url": "http://coderdojo.com/",
+"categories": ["Programming", "Python", "Scratch"]
+},
+{
+"id": "16",
+"name": "Scratch",
+"url": "scratch.mit.edu",
+"categories": ["Programming", "Scratch"]
+},
+{
+"id": "17",
+"name": "Mobiletuts+",
+"url": "http://mobile.tutsplus.com/",
+"categories": ["Programming", "Mobile Development", "Web Development", "IOS", "SDK", "Game Programming"]
+},
+{
+"id": "18",
+"name": "Udemy",
+"url": "https://www.udemy.com/courses/Technology",
+"categories": ["Statistics", "Analysis", "Math", "Programming", "Computer Science"]
+},
+{
+"id": "19",
+"name": "Code School",
+"url": "https://www.codeschool.com/",
+"categories": ["Web Development", "Web Design", "Programming", "IOS", "Android", "JavaScript", "CSS", "HTML", "Mobile Development", "PHP"]
+},
+{
+"id": "20",
+"name": "Treehouse",
+"url": "http://teamtreehouse.com/",
+"categories": ["Web Development", "Web Design", "Programming", "IOS", "Android", "JavaScript", "CSS", "HTML", "Mobile Development", "PHP"]
+},
+{
+"id": "21",
+"name": "Bloc",
+"url": "https://www.bloc.io/",
+"categories": ["Web Development"]
+},
+{
+"id": "22",
+"name": "Programmr",
+"url": "http://www.programmr.com/",
+"categories": ["Programming", "Python", "Android", "PHP", "C++", "SQL", "JavaScript", "Ruby", "IOS"]
+},
+{
+"id": "22",
+"name": "HTML5 Rocks",
+"url": "http://www.html5rocks.com/en/",
+"categories": ["Open Web", "HTMl5", "CSS3", "JavaScript", "Web Development", "Game Development", "WebGL"]
+}
+]

@@ -1,0 +1,21 @@
+<div class="categories-list">
+  <div class="container">
+    <div class="row">
+      <div class="links-category-container col-md-12">
+        <section class="links-category">
+          <h3 class="category-title"><strong>All Categories</strong></h3>
+          <ul class="list-inline categories-list">
+            <li ng-repeat="item in items">
+              <h4 class="item-name">{{ item.name }}</h4>
+              <ul class="list-inline tag-list">
+                <li class="label" ng-repeat="category in item.categories"><a href="/#/category/{{ category }}">{{ category }}</a></li>
+              </ul>
+              <strong><a href="{{ item.url }}" target="_blank" title="{{ item.name }}" class="btn btn-primary btn-block">Visit</a></strong>
+            </li>
+          </ul>
+          <div class="clearfix"></div>
+        </section>
+      </div>
+    </div>
+  </div>
+</div>
