@@ -8,7 +8,7 @@
             <li ng-repeat="item in items">
               <h4 class="item-name">{{ item.name }}</h4>
               <ul class="list-inline tag-list">
-                <li class="label" ng-repeat="category in item.categories"><a href="/#/category/{{ category }}">{{ category }}</a></li>
+                <li class="label" ng-repeat="category in item.categories">{{ category }}</li>
               </ul>
               <strong><a href="{{ item.url }}" target="_blank" title="{{ item.name }}" class="btn btn-primary btn-block">Visit</a></strong>
             </li>
