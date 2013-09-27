@@ -26,13 +26,13 @@
 {
 "id": "5",
 "name": "Coursera",
-"url": "www.coursera.org",
+"url": "http://www.coursera.org",
 "categories": ["Data Science", "Programming", "Theory", "Artificial Intelligence", "Computer Science", "Statistics", "Algorithms", "Data Structures", "Robotics"]
 },
 {
 "id": "6",
 "name": "Udacity",
-"url": "www.udacity.com",
+"url": "http://www.udacity.com",
 "categories": ["Computer Science", "Web Development", "Artificial Intelligence", "Algorithms", "Crypography", "Math", "Robotics"]
 },
 {
@@ -44,13 +44,13 @@
 {
 "id": "8",
 "name": "Code Academy",
-"url": "www.codecademy.com",
+"url": "http://www.codecademy.com",
 "categories": ["JavaScript", "jQuery", "Python", "Ruby", "PHP", "Web Development"]
 },
 {
 "id": "9",
 "name": "Khan Academy",
-"url": "www.khanacademy.org",
+"url": "http://www.khanacademy.org",
 "categories": ["Programming", "Computer Science", "Math", "Information Theory"]
 },
 {
@@ -62,7 +62,7 @@
 {
 "id": "11",
 "name": "Eloquent JavaScript",
-"url": "www.eloquentjavascript.net",
+"url": "http://www.eloquentjavascript.net",
 "categories": ["JavaScript"]
 },
 {
@@ -136,5 +136,23 @@
 "name": "HTML5 Rocks",
 "url": "http://www.html5rocks.com/en/",
 "categories": ["Open Web", "HTMl5", "CSS3", "JavaScript", "Web Development", "Game Development", "WebGL"]
+},
+{
+"id": "23",
+"name": "Code School (.org)",
+"url": "https://www.codeschool.org",
+"categories": ["Web Development", "Web Design", "Programming", "Java", "Network", "Linux"]
+},
+{
+"id": "24",
+"name": "Learneroo",
+"url": "http://www.learneroo.com",
+"categories": ["Java", "Algorithms", "Computer Science"]
+},
+{
+"id": "25",
+"name": "Exercism",
+"url": "http://exercism.io/",
+"categories": ["Ruby", "JavaScript", "Python", "Haskell", "Clojure", "Elixir"]
 }
 ]
