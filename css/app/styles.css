@@ -17,7 +17,7 @@ a:hover {
 	color: #000;
 }
 body {
-	background: #FFFEF3 url(../../img/overlay.png);
+	background-color: #FFFEF3;
 	border:20px solid #EDEA6D;
 	color: #291124;
 	border-left: none;
