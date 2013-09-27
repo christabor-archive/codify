@@ -23,6 +23,10 @@ body {
 	border-left: none;
 	border-right: none;
 }
+.row {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
 .lead {
 	font-family: 'EB Garamond', serif;
 }
@@ -102,7 +106,7 @@ h1, h2, h3, h4, h5, h6, .btn {
 	color: #fff;
 }
 .btn-primary {
-	background-color: #EDEB6D;
+	background: #EDEB6D;
 	border:none;
 	color: #000;
 	border-radius: 0;
@@ -129,6 +133,11 @@ h1, h2, h3, h4, h5, h6, .btn {
 	padding: 5px;
 	margin: 3px;
 	background-color: #444;
+}
+.list-group a {
+	border: 2px solid #753D6A;
+	padding:20px;
+	display: inline-block;
 }
 footer {
 	font-size: 10px;
