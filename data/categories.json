@@ -160,5 +160,11 @@
 "name": "Open Learning Initiative",
 "url": "http://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science",
 "categories" : ["Computer Science", "Programming", "Data Structures", "Algorithms"]
+},
+{
+"id": "27",
+"name": "Dash",
+"url": "https://dash.generalassemb.ly/",
+"categories": ["HTML", "CSS", "JavaScript"]
 }
 ]
