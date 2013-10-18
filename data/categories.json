@@ -166,5 +166,11 @@
 "name": "Dash",
 "url": "https://dash.generalassemb.ly/",
 "categories": ["HTML", "CSS", "JavaScript"]
+},
+{
+"id": "28",
+"name": "AdaCore",
+"url": "http://university.adacore.com/",
+"categories": ["Programming", "ADA"]
 }
 ]
