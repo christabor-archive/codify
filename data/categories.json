@@ -172,5 +172,11 @@
 "name": "AdaCore",
 "url": "http://university.adacore.com/",
 "categories": ["Programming", "ADA"]
+},
+{
+"id": "29",
+"name": "GitHug",
+"url": "https://github.com/Gazler/githug",
+"categories": ["Git"]
 }
 ]
