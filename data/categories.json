@@ -178,5 +178,11 @@
 "name": "GitHug",
 "url": "https://github.com/Gazler/githug",
 "categories": ["Git"]
+},
+{
+"id": "30",
+"name": "TalentBuddy",
+"url": "http://www.talentbuddy.co/",
+"categories": ["Programming", "Algorithms", "Data Structures", "Computer Science"]
 }
 ]
