@@ -181,8 +181,14 @@
 },
 {
 "id": "30",
+<<<<<<< HEAD
 "name": "TalentBuddy",
 "url": "http://www.talentbuddy.co/",
 "categories": ["Programming", "Algorithms", "Data Structures", "Computer Science"]
+=======
+"name": "Egghead",
+"url": "http://egghead.io/",
+"categories": ["D3", "MVC", "AngularJS", "JavaScript", "Programming", "Web Development"]
+>>>>>>> Add new link
 }
 ]
