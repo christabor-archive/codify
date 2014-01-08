@@ -23,6 +23,15 @@ body {
 	border-left: none;
 	border-right: none;
 }
+label {
+	font-weight: normal;
+}
+input {
+	border: none;
+	padding: 4px;
+	margin: 2px;
+	border-bottom: 2px solid #ccc;
+}
 .row {
 	padding-top: 40px;
 	padding-bottom: 40px;
@@ -68,6 +77,12 @@ h1, h2, h3, h4, h5, h6, .btn {
 	text-indent: 20px;
 	margin: 40px 0;
 	font-size: 30px;
+}
+.category-title .filter-items {
+	float: right;
+	font-size: 60%;
+	padding-right: 65px;
+	color: #EDEA6D;
 }
 .categories-list {
 	color: #fff;

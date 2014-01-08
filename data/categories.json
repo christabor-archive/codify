@@ -190,5 +190,18 @@
 "name": "Egghead",
 "url": "http://egghead.io/",
 "categories": ["D3", "MVC", "AngularJS", "JavaScript", "Programming", "Web Development"]
+},
+{
+"id": "32",
+"name": "Neo",
+"url": "http://www.neo.com/",
+"categories": ["Ruby on Rails", "Node", "iOS"]
+},
+{
+"id": "33",
+"name": "edX",
+"url": "https://www.edx.org/course-list",
+"categories": ["Computer Science", "Math", "Engineering"]
 }
 ]
+
