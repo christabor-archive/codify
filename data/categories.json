@@ -202,6 +202,12 @@
 "name": "edX",
 "url": "https://www.edx.org/course-list",
 "categories": ["Computer Science", "Math", "Engineering"]
+},
+{
+"id": "34",
+"name": "CodeCombat",
+"url": "http://codecombat.com/",
+"categories": ["Javascript", "Programming"]
 }
 ]
 
