@@ -214,6 +214,17 @@
 "name": "Learn You a Haskell",
 "url": "http://learnyouahaskell.com/",
 "categories": ["Programming", "Functional programming", "Haskell"]
+},
+{
+"id": "36",
+"name": "Git Immersion",
+"url": "http://gitimmersion.com/",
+"categories": ["Version control", "Source control", "Git"]
+},
+{
+"id": "37",
+"name": "Practical Guide to HTML and CSS",
+"url": "http://learn.shayhowe.com/",
+"categories": ["Web development", "CSS", "HTML", "Web design"]
 }
 ]
-
