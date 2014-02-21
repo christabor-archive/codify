@@ -208,6 +208,12 @@
 "name": "CodeCombat",
 "url": "http://codecombat.com/",
 "categories": ["Javascript", "Programming"]
+},
+{
+"id": "35",
+"name": "Learn You a Haskell",
+"url": "http://learnyouahaskell.com/",
+"categories": ["Programming", "Functional programming", "Haskell"]
 }
 ]
 
