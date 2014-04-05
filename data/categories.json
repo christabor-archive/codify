@@ -226,5 +226,17 @@
 "name": "Practical Guide to HTML and CSS",
 "url": "http://learn.shayhowe.com/",
 "categories": ["Web development", "CSS", "HTML", "Web design"]
+},
+{
+"id": "38",
+"name": "Coding Bat",
+"url": "http://codingbat.com/",
+"categories": ["Python", "Algorithms", "Logic"]
+},
+{
+"id": "39",
+"name": "Learn C",
+"url": "http://www.learn-c.org/",
+"categories": ["Programming", "C"]
 }
 ]
